@@ -92,14 +92,6 @@ const bhavyank = {
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhavyank89&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -113,35 +105,10 @@ const bhavyank = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhavyank89&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</div>
-
----
-
 ## 💭 Daily Inspiration
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
-</div>
-
----
-
-## 🎵 Currently Playing
-
-<div align="center">
-  
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=physgef1m657kwu4txmtgb9mc&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=physgef1m657kwu4txmtgb9mc&redirect=true)
-
-### 🎧 My Featured Playlist
-[![Spotify Playlist](https://img.shields.io/badge/🎵_Listen_on_Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5AcMlXAQjt8HmDC3JNz24o)
-
-### 🎧 My Spotify Playlists
-[![Coding Beats](https://img.shields.io/badge/🎵_Coding_Beats-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/physgef1m657kwu4txmtgb9mc)
-[![Profile](https://img.shields.io/badge/👤_My_Profile-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/physgef1m657kwu4txmtgb9mc)
-
 </div>
 
 ---
