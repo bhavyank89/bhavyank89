@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=bhavyank89&icon=5&color=6" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=bhavyank89&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/bhavyank89?label=Followers&style=social" alt="GitHub followers" />
 </div>
 
@@ -120,11 +120,11 @@ const bhavyank = {
 
 ---
 
-## 🎵 Currently Vibing To
+## 🎵 Currently Playing
 
 <div align="center">
   
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/spotify-playing/bhavyank89)](https://spotify-github-profile.vercel.app/api/spotify-playing/bhavyank89)
+[![Spotify](https://novatorem-bhavyank89.vercel.app/api/spotify)](https://open.spotify.com/user/bhavyank89)
 
 </div>
 
