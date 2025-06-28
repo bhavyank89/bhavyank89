@@ -18,7 +18,7 @@
 ```javascript
 const bhavyank = {
     pronouns: "He/Him",
-    location: "Ahmedabad, Gujarat, India",
+    location: "India",
     role: "Full Stack Developer",
     specialization: ["MERN Stack", "Web Development", "UI/UX"],
     currentFocus: "Building scalable web applications with modern tech stack",
