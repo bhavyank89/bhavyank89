@@ -41,7 +41,7 @@ const bhavyank = {
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhavyank89)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/bhavyank89)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bha_v76)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)]([https://open.spotify.com/user/physgef1m657kwu4txmtgb9mc](https://open.spotify.com/user/physgef1m657kwu4txmtgb9mc?si=e551d69a8fe744d4))
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/physgef1m657kwu4txmtgb9mc)
 
 </div>
 
@@ -135,9 +135,12 @@ const bhavyank = {
   
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=physgef1m657kwu4txmtgb9mc&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=physgef1m657kwu4txmtgb9mc&redirect=true)
 
+### 🎧 My Featured Playlist
+[![Spotify Playlist](https://img.shields.io/badge/🎵_Listen_on_Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5AcMlXAQjt8HmDC3JNz24o)
+
 ### 🎧 My Spotify Playlists
-[![Coding Beats]([https://img.shields.io/badge/🎵_Coding_Beats-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/physgef1m657kwu4txmtgb9mc](https://open.spotify.com/playlist/5AcMlXAQjt8HmDC3JNz24o?si=b34ef211f86044c6))
-[![Profile]([https://img.shields.io/badge/👤_My_Profile-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/physgef1m657kwu4txmtgb9mc](https://open.spotify.com/playlist/5AcMlXAQjt8HmDC3JNz24o?si=b34ef211f86044c6))
+[![Coding Beats](https://img.shields.io/badge/🎵_Coding_Beats-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/physgef1m657kwu4txmtgb9mc)
+[![Profile](https://img.shields.io/badge/👤_My_Profile-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/physgef1m657kwu4txmtgb9mc)
 
 </div>
 
