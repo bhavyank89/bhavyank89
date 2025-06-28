@@ -1,4 +1,6 @@
-
+```
+![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
+```
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bha_v76) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavyank89) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bhavyank89) 
 
