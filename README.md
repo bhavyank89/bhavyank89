@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Bhavyank Sarolia</br>
+# 👋 Hey there, I'm Bhavyank Sarolia
 
 <div margin-bottom="5px" align="center">
   
